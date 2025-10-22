@@ -18,7 +18,8 @@ This project is a comprehensive data analysis pipeline built around Walmart's re
 ## 📁 Project Steps
 
 ### 1. Download Dataset from Kaggle
-- **Source**: [Walmart Sales Dataset](https://www.kaggle.com/)
+- **Source**: [Walmart Sales Dataset](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
+
 - **Format**: CSV
 - **Initial Size**: 10,000+ records
 
