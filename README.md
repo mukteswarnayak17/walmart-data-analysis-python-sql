@@ -3,7 +3,7 @@
 ## 📊 Project Overview
 
 This project is a comprehensive data analysis pipeline built around Walmart's retail transaction data. It involves cleaning and transforming a single-table dataset with over 10,000+ records, solving real-world business problems using SQL, and documenting insights for strategic decision-making. The project is ideal for analysts seeking hands-on experience in data wrangling, SQL querying, and business analytics.
-"C:\Users\nayak\Downloads\Walmart-project.png"
+
 ---
 
 ## 🛠️ Tools & Technologies
